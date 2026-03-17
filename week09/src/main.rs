@@ -7,6 +7,8 @@
 //   - Replace every `todo!()` with a real implementation.
 //   - Do NOT modify the test module.
 //   - Your code must compile with zero Clippy warnings (cargo clippy -- -D warnings).
+//
+// Status: All functions implemented and tested.
 
 fn main() {
     println!("Week 09: Rust basics");
